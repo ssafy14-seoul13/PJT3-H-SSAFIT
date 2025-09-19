@@ -97,8 +97,7 @@
 
 ---
 
-## <img src ="https://github.com/user-attachments/assets/712752fd-928a-4847-b1e9-b94b11f2c898" width="200" height="200"/>
- 소감
+## <img src ="https://github.com/user-attachments/assets/712752fd-928a-4847-b1e9-b94b11f2c898" width="200" height="200"/> 소감
 
 
 
