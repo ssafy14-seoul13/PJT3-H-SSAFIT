@@ -74,7 +74,7 @@
 댓글 수가 매우 많은 경우, 서버에서 매번 정렬 로직을 수행하는 것이 부담될 수 있습니다.
 
 #### 핵심 코드
-<img width="650" height="630" alt="image" src="https://github.com/user-attachments/assets/6ddee2bc-0ee9-4644-8e15-bd92c8322162" />
+<img width="650" height="630" alt="image" src="https://github.com/user-attachments/assets/41be044b-ffa1-4136-b414-792751a4c87c" />
 
 ---
 
